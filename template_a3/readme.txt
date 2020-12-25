@@ -1,0 +1,2 @@
+Please launch the launch file bot_in_world_bug2.launch located in the launch file
+then run the rosnode : controller.py, controller_bug1.py and controller_bug2.py; corresponding to bug0 bug1 and bug2 respectievly
